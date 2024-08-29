@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winkles99
+- 👋 Hi, I’m Winks!
 - 👀 I’m interested in games with swords in them!
 - 🌱 I’m currently learning JavaScript ... I'm not very good at it :3
 - 💞️ I’m looking to collaborate on modules for Foundry VTT ...
